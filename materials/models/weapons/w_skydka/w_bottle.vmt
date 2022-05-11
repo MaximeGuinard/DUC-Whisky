@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_skydka/v_bottle"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.35 .35 .35]"
+
+}
